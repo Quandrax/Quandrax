@@ -16,7 +16,7 @@ I am programmer and I like progamming
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ GitHub Stats
 
 <p align="center" style="margin-top: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quandrax&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
