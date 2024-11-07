@@ -7,11 +7,11 @@ I am programmer and I like progamming
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Zig-Dark.svg" alt="Zig" width="130" style="margin-right: 30px; margin-bottom: 20px;" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" width="130" style="margin-right: 30px; margin-bottom: 20px;" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="130" style="margin-right: 30px; margin-bottom: 20px;" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="130" style="margin-right: 30px; margin-bottom: 20px;" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nix-Dark.svg" alt="Nix" width="130" style="margin-right: 30px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Zig-Dark.svg" alt="Zig" width="120" style="margin-right: 30px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" alt="Rust" width="120" style="margin-right: 30px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="120" style="margin-right: 30px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="120" style="margin-right: 30px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nix-Dark.svg" alt="Nix" width="120" style="margin-right: 30px; margin-bottom: 20px;" />
 </p>
 
 ---
