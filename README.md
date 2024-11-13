@@ -1,6 +1,6 @@
 # 👋 Hi, me Quandrax
 
-I am programmer and I like progamming
+I am graphics programmer and I like progamming
 
 ---
 
