@@ -1,6 +1,6 @@
 # 👋 Hi, me Quandrax
 
-I am graphics programmer and I like progamming
+I am graphics programmer and I like progamming. Projects are named after my friends.
 
 ---
 
