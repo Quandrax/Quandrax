@@ -19,7 +19,7 @@ I am graphics programmer and I like progamming. Projects are named after my frie
 ## ⭐ GitHub Stats
 
 <p align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quandrax&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quandrax&theme=dark&hide_border=true" />
 </p>
 
 ---
